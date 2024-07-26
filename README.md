@@ -50,4 +50,4 @@ I want to continue to grow my knowledge of React and its many capabilities.
 ## Author
 
 - Website - [Morgan Ero] (https://github.com/MorganEro)
-- Ultimate React Course- [Jonas Schmedtmann] UDEMY
+- Advanced CSS Course- [Jonas Schmedtmann] UDEMY
