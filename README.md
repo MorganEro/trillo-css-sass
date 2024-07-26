@@ -23,7 +23,7 @@ This is a css and sass project to practice Flexbox and SASS stylinmg
 ### Links
 
 - Solution URL: (https://github.com/MorganEro/trillo-css-sass)
-- Live Site URL: (https://morganero.github.io/usePopcorn/)
+- Live Site URL: (https://morganero.github.io/trillo-css-sass/)
 
 ### Built with
 
